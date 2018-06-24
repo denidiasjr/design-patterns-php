@@ -11,7 +11,8 @@
             "FactoryMethod\\": "src/FactoryMethod/",
             "AbstractFactory\\": "src/AbstractFactory/",
             "Builder\\": "src/Builder/",
-            "Prototype\\": "src/Prototype/"
+            "Prototype\\": "src/Prototype/",
+            "Singleton\\": "src/Singleton/"
         }
     },
     "require": {}
